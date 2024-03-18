@@ -96,7 +96,7 @@ body, html {
     font-size: .9em;
     align-self: flex-start;
     font-weight: 300;
-    gap: 90px;
+    gap: 80px;
     padding-bottom: 1.2em;
     border-bottom: 1px solid hsl(215, 32%, 27%);
 }
